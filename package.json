@@ -1,0 +1,19 @@
+{
+  "name": "code-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0"
+  }
+}
