@@ -1,2 +1,2 @@
 # code-study
-Studying some codeing questions and puzzles.
+Studying some coding questions and puzzles.

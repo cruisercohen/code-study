@@ -1,3 +1,6 @@
+//  CTCI 4.12. given a binary tree, each node has an integer. Design algorithm to count paths that sum to a given value.
+//  The paths can start anywhere, but must go down the tree (parent to child)
+
 class node {
     constructor(val, left, right) {
         this.val = val;
